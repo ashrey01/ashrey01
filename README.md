@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrey!
-- 👀 I’m interested in exploring what GitHub has to offer me 
+- 👀 I’m interested in exploring Github. 
 - 🌱 I’m currently learning Data Analysis, SQL, Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me at: ashrey2708@gmail.com
